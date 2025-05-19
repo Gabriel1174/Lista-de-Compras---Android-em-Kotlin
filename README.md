@@ -128,9 +128,3 @@ Responsável pela interface com o usuário.
 - Adicionar suporte a múltiplas listas de compras.
 - Melhorar o design da interface com Material Design.
 - Implementar testes unitários para o ViewModel e DAO.
-
----
-
-## 📜 Licença
-
-Este projeto é licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
