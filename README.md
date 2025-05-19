@@ -1,4 +1,4 @@
-# Lista de Compras - Android em Kotlin
+# android-lista-de-compras
 
 Aplicativo Android desenvolvido com Kotlin para gerenciar uma lista de compras, os usuários podem adicionar, visualizar e remover itens da lista de compras.
 
